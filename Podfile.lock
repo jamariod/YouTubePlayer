@@ -1,0 +1,20 @@
+PODS:
+  - lottie-ios (3.1.8)
+  - youtube-ios-player-helper (0.1.6)
+
+DEPENDENCIES:
+  - lottie-ios
+  - youtube-ios-player-helper
+
+SPEC REPOS:
+  trunk:
+    - lottie-ios
+    - youtube-ios-player-helper
+
+SPEC CHECKSUMS:
+  lottie-ios: 48fac6be217c76937e36e340e2d09cf7b10b7f5f
+  youtube-ios-player-helper: 21ab92db027c7ff86cb17a3843a3f6eafc8158d2
+
+PODFILE CHECKSUM: 126c4b78025d1be0670e36994b8ad73cf2db9a18
+
+COCOAPODS: 1.9.1
